@@ -1,5 +1,6 @@
 # Sintaxis_y_Semantica_De_Los_Lenguajes
 trabajos de sintaxis 
+
 Compilador seleccionado: GCC (GNU Compiler Collection)
 
 Versión del compilador: gcc.exe (Rev8, Built by MSYS2 project) 15.2.0

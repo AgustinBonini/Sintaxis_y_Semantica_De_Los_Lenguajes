@@ -1,4 +1,4 @@
-# Sintaxis_y_Semantica_De_Los_Lenguajes
+# SSL
 trabajos de sintaxis 
 
 Compilador seleccionado: GCC (GNU Compiler Collection)
